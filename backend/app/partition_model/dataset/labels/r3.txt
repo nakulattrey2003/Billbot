@@ -1,0 +1,25 @@
+merchant_name: TOM (Tharavadu Restaurant); 
+merchant_address: 7-8 Mill Hill, Leeds, LS1 500; 
+merchant_phone: 0113 244 0500; 
+merchant_tax_reg_no: null; 
+invoice_type: Restaurant Receipt; 
+memo_number: 000106; 
+user: null; 
+table: 1; 
+date: 03-August-2016; 
+time: 18:06; 
+pax: null; 
+
+items: 
+1. Parippu Soup (V), qty=1, unit_price=3.89, total=3.89; 
+2. Kidilan Erachi, qty=1, unit_price=6.29, total=6.29; 
+3. Kizhangu Cheera Curry, qty=1, unit_price=5.99, total=5.99; 
+4. Kerala Kozhi Curry, qty=1, unit_price=8.99, total=8.99; 
+5. Plain Rice, qty=1, unit_price=2.29, total=2.29; 
+6. Appam (2 pcs), qty=1, unit_price=1.74, total=1.74; 
+
+total_quantity: 6; 
+subtotal: 29.19; 
+total: 29.19; 
+currency: GBP; 
+payment_mode: null;

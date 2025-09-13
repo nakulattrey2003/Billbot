@@ -1,0 +1,87 @@
+{
+  "merchant_name": "Fusion Company Ltd.",
+  "merchant_address": "101 Rocking Avenue, Suit # 305, Kolkata-700007, West Bengal",
+  "merchant_phone": "+91-33-2534-5061",
+  "merchant_tax_reg_no": "Vat155788",
+  "invoice_type": "Retail Invoice",
+  "memo_number": "12/634",
+  "user": "Adm",
+  "table": "7",
+  "date": "27-Jan-2012",
+  "time": "12:18 PM",
+  "pax": 1,
+  "items": [
+    {
+      "description": "Chivas Regal",
+      "quantity": 2,
+      "unit_price": 325.0,
+      "total": 650.0
+    },
+    {
+      "description": "Jw Black Lable",
+      "quantity": 2,
+      "unit_price": 600.0,
+      "total": 1200.0
+    },
+    {
+      "description": "Chicken Drumsticks",
+      "quantity": 1,
+      "unit_price": 180.0,
+      "total": 180.0
+    },
+    {
+      "description": "Charcoaled Pickle Prawn",
+      "quantity": 1,
+      "unit_price": 180.0,
+      "total": 180.0
+    },
+    {
+      "description": "Chicken/lamb Steak",
+      "quantity": 1,
+      "unit_price": 180.0,
+      "total": 180.0
+    },
+    {
+      "description": "Chinese Combo Chicken",
+      "quantity": 1,
+      "unit_price": 125.0,
+      "total": 125.0
+    },
+    {
+      "description": "Chandni Kebab Club",
+      "quantity": 1,
+      "unit_price": 180.0,
+      "total": 180.0
+    },
+    {
+      "description": "Asian Mixed Entree Platt",
+      "quantity": 1,
+      "unit_price": 180.0,
+      "total": 180.0
+    },
+    {
+      "description": "Amritsari Chola",
+      "quantity": 1,
+      "unit_price": 225.0,
+      "total": 225.0
+    },
+    {
+      "description": "Chinese Combo Rice",
+      "quantity": 1,
+      "unit_price": 125.0,
+      "total": 125.0
+    },
+    {
+      "description": "Chinese Combo Noodle",
+      "quantity": 1,
+      "unit_price": 125.0,
+      "total": 125.0
+    }
+  ],
+  "total_quantity": 16,
+  "subtotal": 4500.0,
+  "tax": null,
+  "total": 4500.0,
+  "currency": "INR",
+  "payment_mode": "Cash"
+}

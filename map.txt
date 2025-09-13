@@ -1,0 +1,51 @@
+Use Cases for Bill Image Processing System
+
+Nutritional Analysis of Groceries
+
+Capture an image of a bill containing purchased grocery items.
+
+System extracts items and quantities using OCR and mapping with nutritional databases.
+
+Provides detailed breakdown of nutrients, proteins, fats, vitamins, and minerals in the total purchase.
+
+Helps users track their dietary intake at the household level.
+
+Budget Tracking
+
+System reads total amount spent from the bill.
+
+Records categorized expenses (e.g., vegetables, fruits, packaged foods, dairy).
+
+Generates monthly or weekly expenditure reports.
+
+Provides insights on overspending and saving opportunities.
+
+Approximate Expiry Tracking
+
+Extracts grocery items and identifies standard shelf life from a product database.
+
+Calculates and tracks estimated expiry dates of purchased items.
+
+Sends notifications or reminders before items expire to reduce food wastage.
+
+AI Chatbot Assistant
+
+Provides a conversational interface for users to query expenses, nutrition, or expiry details in natural language.
+
+Suggests healthier alternatives, budget-saving tips, and recipe ideas based on purchased items.
+
+Integrates with mobile/web app for real-time guidance and personalized insights.
+
+Implementation Plan:
+
+Step 1: Use OCR (Optical Character Recognition) to extract bill text.
+
+Step 2: Map items with nutritional and product databases.
+
+Step 3: Store data in structured format (categories, prices, expiry dates).
+
+Step 4: Build analytics modules for nutrition, budget, expiry tracking, and chatbot integration.
+
+Step 5: Integrate with a mobile/web application for user-friendly access.
+
+Step 6: Enhance with AI chatbot for natural language interaction and personalized recommendations.

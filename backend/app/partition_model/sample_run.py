@@ -1,7 +1,7 @@
-from ocr_pipeline import ocr_image_to_json
+# from ocr_pipeline import ocr_image_to_json
+from ocr_pipeline import process_bill
 
 if __name__ == "__main__":
-    image_path = "dataset/images/r8.png"
-    result_json = ocr_image_to_json(image_path)
-    print("✅ OCR Result:")
-    print(result_json)
+    result = process_bill("dataset/images/r6.jpg")
+    print("Structured Data from Bill:")
+    print(result)

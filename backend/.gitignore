@@ -42,3 +42,8 @@ target/
 .mvn/
 .settings/
 bin/
+
+
+debug_partitions/
+enhanced_bill.jpg
+dataset/

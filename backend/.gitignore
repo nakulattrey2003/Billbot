@@ -46,4 +46,6 @@ bin/
 
 debug_partitions/
 enhanced_bill.jpg
-dataset/
+partition_model/dataset/
+
+.env
